@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data-extraction-rules>
+
+    <cloud-backup>
+
+        <!-- Backup Settings -->
+        <include
+            domain="sharedpref"
+            path="PantryPalSettings.xml" />
+
+        <include
+            domain="sharedpref"
+            path="PantryPalPrefs.xml" />
+
+        <!-- Do not backup pantry database -->
+        <exclude
+            domain="database"
+            path="PantryPal.db" />
+
+    </cloud-backup>
+
+    <device-transfer>
+
+        <!-- Transfer settings -->
+        <include
+            domain="sharedpref"
+            path="PantryPalSettings.xml" />
+
+        <include
+            domain="sharedpref"
+            path="PantryPalPrefs.xml" />
+
+        <!-- Exclude database -->
+        <exclude
+            domain="database"
+            path="PantryPal.db" />
+
+    </device-transfer>
+
+</data-extraction-rules>
