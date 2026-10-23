@@ -78,15 +78,14 @@ Pancakes
 Flour 200g
 Eggs 2 pcs
 Milk 500ml
-✅ Pancakes appears
+Pancakes appears
 
 If Milk is removed:
 
-❌ Pancakes no longer appears
+Pancakes no longer appears
 
-🚀 Installation
+Installation
 Clone Repository
-git clone https://github.com/YOUR_USERNAME/PantryPal.git
 Open Project
 Open Android Studio
 Select Open Project
