@@ -31,7 +31,7 @@ Enable/disable notifications
 Configure expiry warning days
 Hide expired ingredients from recipe results
 Persist settings using SharedPreferences
-🛠 Technologies Used
+Technologies Used
 Java
 Android Studio
 SQLite Database
