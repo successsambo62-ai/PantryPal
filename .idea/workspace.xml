@@ -21,9 +21,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c4f16f3-12eb-4283-b30d-ff954592761a" name="Changes" comment="Initial Android Studio project setup&#10;Add PantryItem model class&#10;Add Recipe model classes&#10;Implement SQLite DatabaseHelper&#10;Add pantry CRUD operations&#10;Create add ingredient screen&#10;Implement Pantry RecyclerView adapter&#10;Seed 15 default recipes&#10;Implement recipe matching algorithm&#10;Create suggested recipes screen&#10;Create recipe detail screen&#10;Add settings screen&#10;Implement expiry warnings&#10;Add delete confirmation dialog&#10;Improve UI and input validation&#10;Final testing and bug fixes&#10;Prepare project for submission">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c4f16f3-12eb-4283-b30d-ff954592761a" name="Changes" comment="Initial Android Studio project setup&#10;Add PantryItem model class&#10;Add Recipe model classes&#10;Implement SQLite DatabaseHelper&#10;Add pantry CRUD operations&#10;Create add ingredient screen&#10;Implement Pantry RecyclerView adapter&#10;Seed 15 default recipes&#10;Implement recipe matching algorithm&#10;Create suggested recipes screen&#10;Create recipe detail screen&#10;Add settings screen&#10;Implement expiry warnings&#10;Add delete confirmation dialog&#10;Improve UI and input validation&#10;Final testing and bug fixes&#10;Prepare project for submission" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
